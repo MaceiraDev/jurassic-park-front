@@ -1,0 +1,13 @@
+{
+  "dinos": {
+    "carnivoros": [
+      {
+        "id": 1,
+        "nome": "Tiranossauro-Rex",
+        "dieta": "Carnivoro",
+        "tamanho": "3,7 – 6,1 m",
+        "imagem": "https://static.escolakids.uol.com.br/2023/03/ilustracao-de-um-tiranossauro-rex-com-a-boca-aberta-em-posicao-de-ataque.jpg"
+      }
+    ]
+  }
+}
