@@ -7,6 +7,13 @@
         "dieta": "Carnivoro",
         "tamanho": "3,7 – 6,1 m",
         "imagem": "https://static.escolakids.uol.com.br/2023/03/ilustracao-de-um-tiranossauro-rex-com-a-boca-aberta-em-posicao-de-ataque.jpg"
+      },
+      {
+        "id": 2,
+        "nome": "Espinossauro",
+        "dieta": "Carnivoro",
+        "tamanho": "15 – 16 m",
+        "imagem": "https://1.bp.blogspot.com/-r25U4q_Nsrs/TmjxdJ8W6II/AAAAAAAANe4/_348vatKMhY/w1200-h630-p-k-no-nu/439939-planet-dinosaur.jpg"
       }
     ]
   }
